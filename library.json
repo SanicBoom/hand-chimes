@@ -1,0 +1,27 @@
+{
+  "name": "hand-chimes",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "attribution": "Samples from VCSL (https://github.com/sgossner/VCSL)",
+  "samples": {
+    "a4_r01": "sus_A4_r01_main.wav",
+    "as3_r01": "sus_A#3_r01_main.wav",
+    "as5_r01": "sus_A#5_r01_main.wav",
+    "c3_r01": "sus_C3_r01_main.wav",
+    "c4_r01": "sus_C4_r01_main.wav",
+    "c5_r01": "sus_C5_r01_main.wav",
+    "c6_r01": "sus_C6_r01_main.wav",
+    "d3_r01": "sus_D3_r01_main.wav",
+    "d4_r01": "sus_D4_r01_main.wav",
+    "d5_r01": "sus_D5_r01_main.wav",
+    "e3_r01": "sus_E3_r01_main.wav",
+    "e4_r01": "sus_E4_r01_main.wav",
+    "e5_r01": "sus_E5_r01_main.wav",
+    "fs3_r01": "sus_F#3_r01_main.wav",
+    "fs4_r01": "sus_F#4_r01_main.wav",
+    "fs5_r01": "sus_F#5_r01_main.wav",
+    "gs3_r01": "sus_G#3_r01_main.wav",
+    "gs4_r01": "sus_G#4_r01_main.wav",
+    "gs5_r01": "sus_G#5_r01_main.wav"
+  }
+}
